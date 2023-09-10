@@ -6,6 +6,7 @@
 # Example code from rollbar.com - GPT example
 #
 # V1 9-9-23 - Initial release / dev
+# V2 9-10-23 - Correct prompt constant
 #
 # Notes - Add your OpenAI key below
 
@@ -16,21 +17,21 @@ import os
 import random
 
 # Put OpenAI API key here
-openai.api_key = "XXXXXXXXXXXXXXXXXXXX"
+openai.api_key = "XXXXXXXXXXXXXXXXXXXXXX"
 
 # Uncomment GPT model desired here
 gpt_model='gpt-3.5-turbo'
 #gpt_model = "gpt-4"
 
 ###################### Constants ##########################################################
-NUMBER_OF_CYCLES = 150                                # Number of cycles to run before exiting
-GPT_RETRY_LIMIT = 25                                  # Number of times to retry GPT request if errors occur
-PROMPT = "Create a sentence about a girl and a dog."  # GPT prompt
+NUMBER_OF_CYCLES = 150                                  # Number of cycles to run before exiting
+GPT_RETRY_LIMIT = 25                                    # Number of times to retry GPT if errors occur
+PROMPT = "Create a sentence about a girl and her dog."  # GPT prompt
 
 ########## This function creates the AI prompt #######
 def create_gpt_prompt():
 
-   prompt_message = "Write a sentence about a girl and her dog."
+   prompt_message = PROMPT
 
    return prompt_message
 
