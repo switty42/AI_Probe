@@ -1,0 +1,30 @@
+Final report **************************************
+GPT Test Prompt: Create a sentence about a girl and a dog.
+
+First 5 non duplicate answers **********
+The girl and her faithful dog enjoyed long walks in the park together.
+The girl and her dog happily played fetch in the park.
+The little girl happily played fetch with her furry companion in the park.
+The girl and her dog share an unbreakable bond filled with love and endless adventures.
+The girl and her dog were inseparable, sharing endless adventures and unconditional love.
+
+Number of cycles: 150
+GPT Errors: 0
+GPT prompt min time in seconds: 0.54
+GPT prompt max time in seconds: 1.96
+GPT average prompt time in seconds: 0.77
+Max words in a reply: 22
+Min words in a reply: 10
+Average words in a reply: 15.37
+Duplicate replies: 9
+
+Duplicate answers ***********
+The girl and her dog enjoyed long walks together in the park.
+The girl and her dog share an unbreakable bond filled with love and endless adventures.
+The girl and her dog happily played fetch in the park.
+The girl and her dog enjoyed long walks together in the park.
+The girl and her dog were inseparable, sharing endless adventures and unconditional love.
+The girl and her dog went on a long walk through the park, enjoying each other's company.
+The girl and her dog spent the sunny afternoon playing fetch in the park.
+The girl and her dog enjoyed long walks in the park together, creating a bond that was unbreakable.
+The girl happily played fetch with her dog in the park.

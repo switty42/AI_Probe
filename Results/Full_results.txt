@@ -1,0 +1,1253 @@
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her faithful dog enjoyed long walks in the park together.
+
+Total cycles: 1 Number of duplicates: 0
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog happily played fetch in the park.
+
+Total cycles: 2 Number of duplicates: 0
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The little girl happily played fetch with her furry companion in the park.
+
+Total cycles: 3 Number of duplicates: 0
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog share an unbreakable bond filled with love and endless adventures.
+
+Total cycles: 4 Number of duplicates: 0
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable, sharing endless adventures and unconditional love.
+
+Total cycles: 5 Number of duplicates: 0
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog went on a joyous adventure through the countryside.
+
+Total cycles: 6 Number of duplicates: 0
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoyed long walks together in the park.
+
+Total cycles: 7 Number of duplicates: 0
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog are inseparable companions, always bringing joy and love into each other's lives.
+
+Total cycles: 8 Number of duplicates: 0
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl frolicked in the park with her loyal dog by her side.
+
+Total cycles: 9 Number of duplicates: 0
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her loyal dog were inseparable, exploring the world together with boundless joy.
+
+Total cycles: 10 Number of duplicates: 0
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoyed long walks together in the park.
+
+FOUND DUPLICATE.........
+
+Total cycles: 11 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog are inseparable, with hearts full of love for each other.
+
+Total cycles: 12 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl happily played fetch with her dog in the park.
+
+Total cycles: 13 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The little girl and her loyal dog frolic in the sunlit meadow, creating playful memories that will last a lifetime.
+
+Total cycles: 14 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl walked hand in paw with her loyal dog, sharing a bond that brought them endless joy.
+
+Total cycles: 15 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog romped happily through the park, enjoying the sunshine and each other's company.
+
+Total cycles: 16 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog played together in the park, chasing after the ball with endless excitement.
+
+Total cycles: 17 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoyed playful adventures together as they explored the beautiful outdoors.
+
+Total cycles: 18 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog went for a playful romp in the park, enjoying the warm sunshine and each other's company.
+
+Total cycles: 19 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her loyal dog were inseparable, exploring the world and creating memories together.
+
+Total cycles: 20 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog went on a playful adventure through the park.
+
+Total cycles: 21 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog love to explore the park together, creating endless adventures.
+
+Total cycles: 22 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog had an unbreakable bond, always exploring and playing together.
+
+Total cycles: 23 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The little girl and her dog enjoyed playing fetch in the park on a sunny afternoon.
+
+Total cycles: 24 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl happily played fetch with her beloved dog in the sunny park.
+
+Total cycles: 25 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog played together joyfully in the park.
+
+Total cycles: 26 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog played fetch in the park until the sun began to set.
+
+Total cycles: 27 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog are inseparable, always exploring the world together with boundless joy.
+
+Total cycles: 28 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog bounded through the sunlit meadow, their laughter intertwining with the sound of playful barks.
+
+Total cycles: 29 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable, sharing a bond that could never be broken.
+
+Total cycles: 30 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog shared an unbreakable bond, doing everything together and bringing joy to each other's lives.
+
+Total cycles: 31 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog played fetch together in the park.
+
+Total cycles: 32 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoyed long walks in the park together, creating endless memories.
+
+Total cycles: 33 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The little girl and her furry companion embarked on countless adventures together.
+
+Total cycles: 34 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable, sharing endless adventures and creating the most precious memories together.
+
+Total cycles: 35 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog went on an adventurous hike through the forest, enjoying each other's company every step of the 
+way.
+
+Total cycles: 36 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable, always exploring and playing together.
+
+Total cycles: 37 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog played fetch in the park, their laughter filling the air with joy.
+
+Total cycles: 38 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable, always exploring new adventures together.
+
+Total cycles: 39 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog went on daily adventures filled with wagging tails and endless laughter.
+
+Total cycles: 40 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoyed long walks together in the park, their laughter echoing through the trees.
+
+Total cycles: 41 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog explored the park together, their laughter echoing through the trees.
+
+Total cycles: 42 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl loved spending her days running through the park with her loyal and energetic dog by her side.
+
+Total cycles: 43 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The little girl and her loyal dog share countless adventures and create lasting memories together.
+
+Total cycles: 44 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog played fetch in the park, chasing after the ball with joyful abandon.
+
+Total cycles: 45 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her loyal dog were inseparable, always exploring new adventures together.
+
+Total cycles: 46 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl loved and cherished her loyal and playful dog.
+
+Total cycles: 47 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog went for a stroll in the park, enjoying the sunshine together.
+
+Total cycles: 48 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoyed long walks in the park together, their bond growing stronger with each passing day.
+
+Total cycles: 49 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The little girl played fetch with her faithful dog in the park.
+
+Total cycles: 50 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable, exploring the world together with endless joy and unconditional love.
+
+Total cycles: 51 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable, sharing endless adventures and creating cherished memories together.
+
+Total cycles: 52 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl played fetch with her happy and energetic dog in the park.
+
+Total cycles: 53 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog share an unbreakable bond filled with love and playful adventures.
+
+Total cycles: 54 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoyed a beautiful afternoon walk in the park together.
+
+Total cycles: 55 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable, exploring the world together with endless love and boundless joy.
+
+Total cycles: 56 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog play fetch in the park every sunny afternoon.
+
+Total cycles: 57 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl took her playful dog for a long walk in the park.
+
+Total cycles: 58 Number of duplicates: 1
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog share an unbreakable bond filled with love and endless adventures.
+
+FOUND DUPLICATE.........
+
+Total cycles: 59 Number of duplicates: 2
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog played chase in the park, their laughter filling the air with joy.
+
+Total cycles: 60 Number of duplicates: 2
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her loyal dog spent their days exploring the world together, creating cherished memories that would last 
+a lifetime.
+
+Total cycles: 61 Number of duplicates: 2
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoyed playing fetch in the park on a sunny afternoon.
+
+Total cycles: 62 Number of duplicates: 2
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog shared an unbreakable bond, finding comfort and joy in each other's presence.
+
+Total cycles: 63 Number of duplicates: 2
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog loved to spend sunny afternoons playing fetch in the park.
+
+Total cycles: 64 Number of duplicates: 2
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog happily played fetch in the park.
+
+FOUND DUPLICATE.........
+
+Total cycles: 65 Number of duplicates: 3
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog spent the sunny afternoon playing fetch in the park.
+
+Total cycles: 66 Number of duplicates: 3
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable companions who shared endless adventures together.
+
+Total cycles: 67 Number of duplicates: 3
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoy long walks in the park together, creating a bond that is unbreakable.
+
+Total cycles: 68 Number of duplicates: 3
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl's dog follows her everywhere, wagging its tail joyfully as they explore the world together.
+
+Total cycles: 69 Number of duplicates: 3
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog went for a long walk in the park, enjoying each other's company.
+
+Total cycles: 70 Number of duplicates: 3
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The little girl smiled as she played fetch with her faithful dog in the sun-dappled park.
+
+Total cycles: 71 Number of duplicates: 3
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The little girl and her loyal dog were inseparable, always adventuring and playing together.
+
+Total cycles: 72 Number of duplicates: 3
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog played fetch in the park on a sunny afternoon.
+
+Total cycles: 73 Number of duplicates: 3
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog went on an adventure through the colorful autumn leaves.
+
+Total cycles: 74 Number of duplicates: 3
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The little girl and her loyal dog played together in the park, enjoying the warm sunshine and each other's company.
+
+Total cycles: 75 Number of duplicates: 3
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoyed long walks in the park together, creating a bond that was unbreakable.
+
+Total cycles: 76 Number of duplicates: 3
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable, their bond strong and their adventures endless.
+
+Total cycles: 77 Number of duplicates: 3
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog went on many adventures together, creating cherished memories along the way.
+
+Total cycles: 78 Number of duplicates: 3
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The joyful girl took her loyal dog for a walk in the park.
+
+Total cycles: 79 Number of duplicates: 3
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog are inseparable, always sharing love and adventures together.
+
+Total cycles: 80 Number of duplicates: 3
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl happily played fetch with her energetic dog in the park.
+
+Total cycles: 81 Number of duplicates: 3
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoyed long walks together in the park.
+
+FOUND DUPLICATE.........
+
+Total cycles: 82 Number of duplicates: 4
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog shared an unbreakable bond that brought endless joy and companionship to both of their lives.
+
+Total cycles: 83 Number of duplicates: 4
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her loyal dog enjoyed daily adventures in the park, creating cherished memories together.
+
+Total cycles: 84 Number of duplicates: 4
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable, sharing endless adventures and unconditional love.
+
+FOUND DUPLICATE.........
+
+Total cycles: 85 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog played joyfully in the park, chasing each other with uncontained excitement.
+
+Total cycles: 86 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog share an unbreakable bond filled with love and joy.
+
+Total cycles: 87 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl loves going on long walks with her faithful dog by her side.
+
+Total cycles: 88 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog went on a long walk through the park, enjoying each other's company.
+
+Total cycles: 89 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable, sharing countless adventures and endless love.
+
+Total cycles: 90 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable, sharing countless adventures and creating endless memories together.
+
+Total cycles: 91 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog have an unbreakable bond, always by each other's side through thick and thin.
+
+Total cycles: 92 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog share an unbreakable bond filled with love and endless joy.
+
+Total cycles: 93 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog share an unbreakable bond, their playful adventures filling each day with joy.
+
+Total cycles: 94 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable companions, sharing countless adventures and creating cherished memories together.
+
+Total cycles: 95 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog play together in the park every day, creating memories that will last a lifetime.
+
+Total cycles: 96 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog played fetch in the park, enjoying the warm sunshine together.
+
+Total cycles: 97 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog spent the sunny day at the park, playing fetch and enjoying each other's company.
+
+Total cycles: 98 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog loved to run and play in the park together.
+
+Total cycles: 99 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog happily played fetch in the park together.
+
+Total cycles: 100 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog happily frolicked in the park together, enjoying their special bond.
+
+Total cycles: 101 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog joyfully played fetch in the park on a sunny day.
+
+Total cycles: 102 Number of duplicates: 5
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog went on a long walk through the park, enjoying each other's company.
+
+FOUND DUPLICATE.........
+
+Total cycles: 103 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her playful dog enjoyed exploring the park together, creating many adventures along the way.
+
+Total cycles: 104 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her beloved dog were inseparable, always exploring the world together with joy in their hearts.
+
+Total cycles: 105 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoyed playing together in the park every evening.
+
+Total cycles: 106 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog go on fun adventures together and are the best of friends.
+
+Total cycles: 107 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable, always sharing adventures and unconditional love.
+
+Total cycles: 108 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl joyfully played fetch with her loyal and energetic dog in the park.
+
+Total cycles: 109 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog spent the day playing fetch in the park, enjoying each other's company.
+
+Total cycles: 110 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog are inseparable, sharing countless joyful moments together.
+
+Total cycles: 111 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog shared a deep bond, always adventuring together through life's ups and downs.
+
+Total cycles: 112 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The little girl and her loyal dog spent their days exploring the world together, forming an unbreakable bond.
+
+Total cycles: 113 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog are inseparable, always exploring and playing together.
+
+Total cycles: 114 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoyed long walks in the park, delighting in each other's company every step of the way.
+
+Total cycles: 115 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoyed long walks in the park together, creating countless precious memories.
+
+Total cycles: 116 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog always had endless adventures together, creating memories that would last a lifetime.
+
+Total cycles: 117 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoyed long walks in the park together, creating cherished memories that would last a lifetime.
+
+Total cycles: 118 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her loyal dog enjoyed long walks together in the park every afternoon.
+
+Total cycles: 119 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The little girl and her loyal dog were inseparable, their bond unbreakable.
+
+Total cycles: 120 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog happily frolicked through the meadow, enjoying each other's company.
+
+Total cycles: 121 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The little girl and her furry companion spent the sunny afternoon playing fetch at the park.
+
+Total cycles: 122 Number of duplicates: 6
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog spent the sunny afternoon playing fetch in the park.
+
+FOUND DUPLICATE.........
+
+Total cycles: 123 Number of duplicates: 7
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoy long walks in the park together.
+
+Total cycles: 124 Number of duplicates: 7
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl loved her dog, and they share a special bond that brings them joy every day.
+
+Total cycles: 125 Number of duplicates: 7
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl joyfully played fetch with her beloved dog in the park.
+
+Total cycles: 126 Number of duplicates: 7
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog ran happily through the meadow, their laughter and barking filling the air with joy.
+
+Total cycles: 127 Number of duplicates: 7
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable, sharing countless adventures and creating a bond that could never be broken.
+
+Total cycles: 128 Number of duplicates: 7
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoyed long walks in the park together, creating a bond that was unbreakable.
+
+FOUND DUPLICATE.........
+
+Total cycles: 129 Number of duplicates: 8
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog are inseparable; they love to explore the great outdoors together.
+
+Total cycles: 130 Number of duplicates: 8
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+A girl and her dog, bound by an unbreakable bond, explore the world together, spreading love and joy wherever they go.
+
+Total cycles: 131 Number of duplicates: 8
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog went for a leisurely walk in the park, enjoying each other's company and the beautiful weather.
+
+Total cycles: 132 Number of duplicates: 8
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog played fetch in the park, their laughter echoing through the afternoon air.
+
+Total cycles: 133 Number of duplicates: 8
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog have formed an unbreakable bond of love and loyalty.
+
+Total cycles: 134 Number of duplicates: 8
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog went for a joyful walk in the park, wagging tails and full of excitement.
+
+Total cycles: 135 Number of duplicates: 8
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The little girl walked hand in hand with her loyal golden retriever as they explored the sunlit park together.
+
+Total cycles: 136 Number of duplicates: 8
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoyed exploring the park together, chasing after squirrels and playing fetch.
+
+Total cycles: 137 Number of duplicates: 8
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl happily played fetch with her dog in the park.
+
+FOUND DUPLICATE.........
+
+Total cycles: 138 Number of duplicates: 9
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog are inseparable, sharing endless adventures and a bond that is unbreakable.
+
+Total cycles: 139 Number of duplicates: 9
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable, sharing adventures and unconditional love.
+
+Total cycles: 140 Number of duplicates: 9
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog enjoyed long walks in the park together.
+
+Total cycles: 141 Number of duplicates: 9
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl played fetch with her loyal canine companion in the park.
+
+Total cycles: 142 Number of duplicates: 9
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog spent the day playing fetch in the park, creating an unbreakable bond between them.
+
+Total cycles: 143 Number of duplicates: 9
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her loyal dog enjoyed exploring the great outdoors together.
+
+Total cycles: 144 Number of duplicates: 9
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl affectionately cuddled with her loyal and happy dog.
+
+Total cycles: 145 Number of duplicates: 9
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog were inseparable companions, bringing joy and laughter to each other's lives.
+
+Total cycles: 146 Number of duplicates: 9
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog spent their days exploring the park together, creating memories that would last a lifetime.
+
+Total cycles: 147 Number of duplicates: 9
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog played fetch in the park, laughing and enjoying each other's company.
+
+Total cycles: 148 Number of duplicates: 9
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog went on a joyful walk through the park, their hearts filled with love and companionship.
+
+Total cycles: 149 Number of duplicates: 9
+
+************************************** GPT Prompt ********************
+Write a sentence about a girl and her dog.
+
+*************** GPT Answer *****************
+The girl and her dog love to explore the outdoors together, creating unforgettable memories along the way.
+
+Total cycles: 150 Number of duplicates: 9
+
+Final report **************************************
+GPT Test Prompt: Create a sentence about a girl and a dog.
+
+First 5 non duplicate answers **********
+The girl and her faithful dog enjoyed long walks in the park together.
+The girl and her dog happily played fetch in the park.
+The little girl happily played fetch with her furry companion in the park.
+The girl and her dog share an unbreakable bond filled with love and endless adventures.
+The girl and her dog were inseparable, sharing endless adventures and unconditional love.
+
+Number of cycles: 150
+GPT Errors: 0
+GPT prompt min time in seconds: 0.54
+GPT prompt max time in seconds: 1.96
+GPT average prompt time in seconds: 0.77
+Max words in a reply: 22
+Min words in a reply: 10
+Average words in a reply: 15.37
+Duplicate replies: 9
+
+Duplicate answers ***********
+The girl and her dog enjoyed long walks together in the park.
+The girl and her dog share an unbreakable bond filled with love and endless adventures.
+The girl and her dog happily played fetch in the park.
+The girl and her dog enjoyed long walks together in the park.
+The girl and her dog were inseparable, sharing endless adventures and unconditional love.
+The girl and her dog went on a long walk through the park, enjoying each other's company.
+The girl and her dog spent the sunny afternoon playing fetch in the park.
+The girl and her dog enjoyed long walks in the park together, creating a bond that was unbreakable.
+The girl happily played fetch with her dog in the park.
+
+
