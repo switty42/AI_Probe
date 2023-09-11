@@ -7,6 +7,7 @@
 #
 # V1 9-9-23 - Initial release / dev
 # V2 9-10-23 - Correct prompt constant
+# V3 9-11-23 - Put in GPT timeout and corrected error bug
 #
 # Notes - Add your OpenAI key below
 
@@ -17,7 +18,7 @@ import os
 import random
 
 # Put OpenAI API key here
-openai.api_key = "XXXXXXXXXXXXXXXXXXXXXX"
+openai.api_key = "XXXXXXXXXXXXXXXXXXXXXXXXX"
 
 # Uncomment GPT model desired here
 gpt_model='gpt-3.5-turbo'
@@ -51,7 +52,7 @@ def print_string(string):
 ############### Function - Call ChatGPT #########################################
 def call_gpt(prompt_message):
    try:
-      response = openai.ChatCompletion.create(model=gpt_model, messages=[ {"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": prompt_message},])
+      response = openai.ChatCompletion.create(model=gpt_model, messages=[ {"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": prompt_message}],request_timeout=15)
    except Exception as e:
       return False, "", "WARNING:  System Error during ChatGPT call: " + str(e)
 
@@ -93,7 +94,7 @@ while(number_of_cycles < NUMBER_OF_CYCLES): # Main loop to run prompts
       if (not success):
          print(error_text)
          retry_count = retry_count + 1
-         gpt_erros = gpt_erros + 1
+         gpt_errors = gpt_errors + 1
          continue
 
       final_time = time.time() - store_time
